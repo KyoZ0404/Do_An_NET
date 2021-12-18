@@ -66,7 +66,7 @@
             this.groupBoxA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.groupBoxA.Location = new System.Drawing.Point(12, 12);
             this.groupBoxA.Name = "groupBoxA";
-            this.groupBoxA.Size = new System.Drawing.Size(467, 314);
+            this.groupBoxA.Size = new System.Drawing.Size(467, 466);
             this.groupBoxA.TabIndex = 25;
             this.groupBoxA.TabStop = false;
             this.groupBoxA.Text = "Đổi trả:";
@@ -115,7 +115,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.label6.ForeColor = System.Drawing.Color.Blue;
             this.label6.Location = new System.Drawing.Point(51, 247);
             this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label6.Name = "label6";
@@ -156,7 +156,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.label5.ForeColor = System.Drawing.Color.Blue;
             this.label5.Location = new System.Drawing.Point(26, 213);
             this.label5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label5.Name = "label5";
@@ -170,7 +170,7 @@
             this.cbbFood.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbbFood.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.cbbFood.FormattingEnabled = true;
-            this.cbbFood.Location = new System.Drawing.Point(143, 146);
+            this.cbbFood.Location = new System.Drawing.Point(143, 159);
             this.cbbFood.Name = "cbbFood";
             this.cbbFood.Size = new System.Drawing.Size(302, 28);
             this.cbbFood.TabIndex = 27;
@@ -181,7 +181,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label2.ForeColor = System.Drawing.Color.Blue;
-            this.label2.Location = new System.Drawing.Point(38, 146);
+            this.label2.Location = new System.Drawing.Point(39, 163);
             this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(78, 24);
@@ -213,12 +213,13 @@
             // 
             // txtTotal
             // 
-            this.txtTotal.BackColor = System.Drawing.Color.White;
+            this.txtTotal.BackColor = System.Drawing.Color.Gainsboro;
             this.txtTotal.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtTotal.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.txtTotal.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTotal.ForeColor = System.Drawing.Color.Black;
             this.txtTotal.Location = new System.Drawing.Point(120, 91);
             this.txtTotal.Name = "txtTotal";
-            this.txtTotal.Size = new System.Drawing.Size(241, 21);
+            this.txtTotal.Size = new System.Drawing.Size(241, 27);
             this.txtTotal.TabIndex = 23;
             this.txtTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -252,9 +253,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
-            this.BackgroundImage = global::project.Properties.Resources.images__1_;
+            this.BackgroundImage = global::project.Properties.Resources.pngtree_coffee_shop_drink_creative_cartoon_cute_warm_tips_picture_image_1124481;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(491, 338);
+            this.ClientSize = new System.Drawing.Size(491, 490);
             this.Controls.Add(this.groupBoxA);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;

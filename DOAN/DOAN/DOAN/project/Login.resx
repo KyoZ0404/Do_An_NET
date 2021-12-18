@@ -173,40 +173,7 @@
   <data name="&gt;&gt;txtPassword.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="rdbAdmin.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="rdbAdmin.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Lucida Bright, 10.8pt, style=Bold, Italic</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="rdbAdmin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="rdbAdmin.Location" type="System.Drawing.Point, System.Drawing">
-    <value>211, 242</value>
-  </data>
-  <data name="rdbAdmin.Size" type="System.Drawing.Size, System.Drawing">
-    <value>111, 26</value>
-  </data>
-  <data name="rdbAdmin.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="rdbAdmin.Text" xml:space="preserve">
-    <value>Quản Lý</value>
-  </data>
-  <data name="&gt;&gt;rdbAdmin.Name" xml:space="preserve">
-    <value>rdbAdmin</value>
-  </data>
-  <data name="&gt;&gt;rdbAdmin.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rdbAdmin.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;rdbAdmin.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="btnLogin.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Zoom</value>
   </data>
@@ -241,7 +208,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnLogin.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="btnThoat.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Zoom</value>
@@ -274,7 +241,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnThoat.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 140</value>
@@ -298,6 +265,36 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="chkAdmin.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkAdmin.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Lucida Bright, 12pt, style=Bold, Italic</value>
+  </data>
+  <data name="chkAdmin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>211, 242</value>
+  </data>
+  <data name="chkAdmin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 27</value>
+  </data>
+  <data name="chkAdmin.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chkAdmin.Text" xml:space="preserve">
+    <value>Quản Lý</value>
+  </data>
+  <data name="&gt;&gt;chkAdmin.Name" xml:space="preserve">
+    <value>chkAdmin</value>
+  </data>
+  <data name="&gt;&gt;chkAdmin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkAdmin.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;chkAdmin.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

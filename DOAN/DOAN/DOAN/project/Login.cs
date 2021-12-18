@@ -16,7 +16,7 @@ namespace project
         public frmLogin()
         {
             InitializeComponent();
-            
+
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
@@ -39,7 +39,7 @@ namespace project
                 {
                     name = table.Rows[i][1].ToString();
                     type = table.Rows[i][3].ToString();
-                    MessageBox.Show("Xin chào "+name+" :)", "Đăng nhập thành công",MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Xin chào " + name + " :)", "Đăng nhập thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     return true;
                 }
             }
@@ -54,8 +54,8 @@ namespace project
                 string user = txtUsername.Text;
                 string pass = txtPassword.Text;
                 string type = "CASHIER";
-                
-                if (rdbAdmin.Checked == true)
+
+                if (chkAdmin.Checked == true)
                 {
                     type = "ADMIN";
                 }
@@ -68,13 +68,13 @@ namespace project
                 }
                 else
                 {
-                    MessageBox.Show("Sai tài khoản hoặc mật khẩu", "Lỗi...",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                    MessageBox.Show("Sai tài khoản hoặc mật khẩu", "Lỗi...", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch
             {
                 //neu chua co co so du lieu
-               MessageBox.Show("Cơ sở dữ liệu không tồn tại. Vui lòng tạo mới theo file hướng dẫn", "Lỗi...", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Cơ sở dữ liệu không tồn tại. Vui lòng tạo mới theo file hướng dẫn", "Lỗi...", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -85,7 +85,7 @@ namespace project
 
         private void txtPassword_Click(object sender, EventArgs e)
         {
-            txtPassword.Clear();    
+            txtPassword.Clear();
         }
     }
 }

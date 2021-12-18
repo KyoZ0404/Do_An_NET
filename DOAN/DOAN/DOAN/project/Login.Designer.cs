@@ -31,10 +31,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmLogin));
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.txtPassword = new System.Windows.Forms.TextBox();
-            this.rdbAdmin = new System.Windows.Forms.RadioButton();
             this.btnLogin = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.chkAdmin = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -52,14 +52,6 @@
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.UseSystemPasswordChar = true;
             this.txtPassword.Click += new System.EventHandler(this.txtPassword_Click);
-            // 
-            // rdbAdmin
-            // 
-            resources.ApplyResources(this.rdbAdmin, "rdbAdmin");
-            this.rdbAdmin.BackColor = System.Drawing.Color.Transparent;
-            this.rdbAdmin.ForeColor = System.Drawing.Color.Black;
-            this.rdbAdmin.Name = "rdbAdmin";
-            this.rdbAdmin.UseVisualStyleBackColor = false;
             // 
             // btnLogin
             // 
@@ -88,6 +80,13 @@
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.TabStop = false;
             // 
+            // chkAdmin
+            // 
+            resources.ApplyResources(this.chkAdmin, "chkAdmin");
+            this.chkAdmin.BackColor = System.Drawing.Color.Transparent;
+            this.chkAdmin.Name = "chkAdmin";
+            this.chkAdmin.UseVisualStyleBackColor = false;
+            // 
             // frmLogin
             // 
             this.AcceptButton = this.btnLogin;
@@ -96,10 +95,10 @@
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.BackgroundImage = global::project.Properties.Resources.depositphotos_12489577_stock_illustration_coffee_background;
             this.CancelButton = this.btnThoat;
+            this.Controls.Add(this.chkAdmin);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnLogin);
-            this.Controls.Add(this.rdbAdmin);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtUsername);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -115,9 +114,9 @@
         #endregion
         private System.Windows.Forms.TextBox txtUsername;
         private System.Windows.Forms.TextBox txtPassword;
-        private System.Windows.Forms.RadioButton rdbAdmin;
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.CheckBox chkAdmin;
     }
 }

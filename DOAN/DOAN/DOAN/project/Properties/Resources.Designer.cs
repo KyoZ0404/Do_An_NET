@@ -73,6 +73,16 @@ namespace project.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _43310913 {
+            get {
+                object obj = ResourceManager.GetObject("43310913", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _9b521a04c2f0768bf6bc80e78c319303_hot_coffee_cup_background {
             get {
                 object obj = ResourceManager.GetObject("9b521a04c2f0768bf6bc80e78c319303-hot-coffee-cup-background", resourceCulture);
@@ -323,9 +333,29 @@ namespace project.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pngtree_coffee_shop_drink_creative_cartoon_cute_warm_tips_picture_image_1124481 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-coffee-shop-drink-creative-cartoon-cute-warm-tips-picture-image_1124481", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pngtree_coffee_wallpaper_picture_image_1438012 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-coffee-wallpaper-picture-image_1438012", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_coffee_wallpaper_picture_image_14380121 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-coffee-wallpaper-picture-image_14380121", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

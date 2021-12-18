@@ -46,7 +46,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.btnAccept);
             this.groupBox1.Controls.Add(this.label4);
@@ -114,20 +114,22 @@
             // 
             this.txtTotal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.txtTotal.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.txtTotal.Location = new System.Drawing.Point(134, 70);
             this.txtTotal.Margin = new System.Windows.Forms.Padding(2);
             this.txtTotal.Name = "txtTotal";
-            this.txtTotal.Size = new System.Drawing.Size(204, 23);
+            this.txtTotal.Size = new System.Drawing.Size(204, 27);
             this.txtTotal.TabIndex = 17;
             // 
             // dgvTableFrom
             // 
             this.dgvTableFrom.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvTableFrom.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.dgvTableFrom.BackgroundColor = System.Drawing.Color.White;
             this.dgvTableFrom.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvTableFrom.Location = new System.Drawing.Point(27, 100);
             this.dgvTableFrom.Margin = new System.Windows.Forms.Padding(2);
             this.dgvTableFrom.Name = "dgvTableFrom";
+            this.dgvTableFrom.RowHeadersWidth = 51;
             this.dgvTableFrom.RowTemplate.Height = 24;
             this.dgvTableFrom.Size = new System.Drawing.Size(374, 213);
             this.dgvTableFrom.TabIndex = 16;
@@ -178,12 +180,14 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Từ bàn:";
             // 
-            // ReplaceTable
+            // Chuyen_Ban
             // 
             this.AcceptButton = this.btnAccept;
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+            this.BackgroundImage = global::project.Properties.Resources.pngtree_coffee_wallpaper_picture_image_14380121;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(438, 431);
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
@@ -192,7 +196,7 @@
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "ReplaceTable";
+            this.Name = "Chuyen_Ban";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Chuyển bàn";

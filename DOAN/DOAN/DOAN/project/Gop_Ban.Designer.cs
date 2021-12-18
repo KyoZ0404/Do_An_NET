@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Gop_Ban));
-            this.btnAccept = new System.Windows.Forms.Button();
             this.groupBoxA = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -44,27 +43,16 @@
             this.dgvTableB = new System.Windows.Forms.DataGridView();
             this.cbbTableB = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.btnAccept = new System.Windows.Forms.Button();
             this.groupBoxA.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTableA)).BeginInit();
             this.groupBoxB.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTableB)).BeginInit();
             this.SuspendLayout();
             // 
-            // btnAccept
-            // 
-            this.btnAccept.BackColor = System.Drawing.Color.Silver;
-            this.btnAccept.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnAccept.BackgroundImage")));
-            this.btnAccept.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAccept.Location = new System.Drawing.Point(417, 138);
-            this.btnAccept.Name = "btnAccept";
-            this.btnAccept.Size = new System.Drawing.Size(82, 75);
-            this.btnAccept.TabIndex = 14;
-            this.btnAccept.UseVisualStyleBackColor = false;
-            this.btnAccept.Click += new System.EventHandler(this.btnAccept_Click);
-            // 
             // groupBoxA
             // 
-            this.groupBoxA.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.groupBoxA.BackColor = System.Drawing.Color.Transparent;
             this.groupBoxA.Controls.Add(this.label4);
             this.groupBoxA.Controls.Add(this.label3);
             this.groupBoxA.Controls.Add(this.txtTotalA);
@@ -103,19 +91,21 @@
             // 
             this.txtTotalA.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.txtTotalA.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtTotalA.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.txtTotalA.Location = new System.Drawing.Point(163, 82);
             this.txtTotalA.Name = "txtTotalA";
-            this.txtTotalA.Size = new System.Drawing.Size(158, 21);
+            this.txtTotalA.Size = new System.Drawing.Size(158, 27);
             this.txtTotalA.TabIndex = 23;
             this.txtTotalA.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // dgvTableA
             // 
             this.dgvTableA.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvTableA.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.dgvTableA.BackgroundColor = System.Drawing.Color.White;
             this.dgvTableA.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvTableA.Location = new System.Drawing.Point(23, 126);
             this.dgvTableA.Name = "dgvTableA";
+            this.dgvTableA.RowHeadersWidth = 51;
             this.dgvTableA.RowTemplate.Height = 24;
             this.dgvTableA.Size = new System.Drawing.Size(359, 297);
             this.dgvTableA.TabIndex = 22;
@@ -144,7 +134,7 @@
             // 
             // groupBoxB
             // 
-            this.groupBoxB.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.groupBoxB.BackColor = System.Drawing.Color.Transparent;
             this.groupBoxB.Controls.Add(this.label2);
             this.groupBoxB.Controls.Add(this.label5);
             this.groupBoxB.Controls.Add(this.txtTotalB);
@@ -183,19 +173,21 @@
             // 
             this.txtTotalB.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.txtTotalB.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtTotalB.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.txtTotalB.Location = new System.Drawing.Point(163, 82);
             this.txtTotalB.Name = "txtTotalB";
-            this.txtTotalB.Size = new System.Drawing.Size(160, 21);
+            this.txtTotalB.Size = new System.Drawing.Size(160, 27);
             this.txtTotalB.TabIndex = 23;
             this.txtTotalB.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // dgvTableB
             // 
             this.dgvTableB.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvTableB.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.dgvTableB.BackgroundColor = System.Drawing.Color.White;
             this.dgvTableB.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvTableB.Location = new System.Drawing.Point(23, 126);
             this.dgvTableB.Name = "dgvTableB";
+            this.dgvTableB.RowHeadersWidth = 51;
             this.dgvTableB.RowTemplate.Height = 24;
             this.dgvTableB.Size = new System.Drawing.Size(361, 297);
             this.dgvTableB.TabIndex = 22;
@@ -222,12 +214,26 @@
             this.label6.TabIndex = 20;
             this.label6.Text = "Từ bàn:";
             // 
-            // PlusTable
+            // btnAccept
+            // 
+            this.btnAccept.BackColor = System.Drawing.Color.Silver;
+            this.btnAccept.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnAccept.BackgroundImage")));
+            this.btnAccept.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnAccept.Location = new System.Drawing.Point(417, 138);
+            this.btnAccept.Name = "btnAccept";
+            this.btnAccept.Size = new System.Drawing.Size(82, 75);
+            this.btnAccept.TabIndex = 14;
+            this.btnAccept.UseVisualStyleBackColor = false;
+            this.btnAccept.Click += new System.EventHandler(this.btnAccept_Click);
+            // 
+            // Gop_Ban
             // 
             this.AcceptButton = this.btnAccept;
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+            this.BackgroundImage = global::project.Properties.Resources._43310913;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(926, 472);
             this.Controls.Add(this.groupBoxB);
             this.Controls.Add(this.groupBoxA);
@@ -238,7 +244,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "PlusTable";
+            this.Name = "Gop_Ban";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Gộp bàn";
