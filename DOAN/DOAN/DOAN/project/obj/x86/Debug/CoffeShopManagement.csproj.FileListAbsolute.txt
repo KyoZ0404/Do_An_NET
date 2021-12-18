@@ -1,0 +1,743 @@
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.exe
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.pdb
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.exe
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.pdb
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdAccount.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAddFood.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.Block.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ChangePersional.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdCategory.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdFood.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdTables.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmLogin.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmMain.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmPay.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.PlusTable.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ReFood.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ReplaceTable.resources
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Nguyen Quang Tron\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.exe.licenses
+F:\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+F:\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+F:\DOAN\project\obj\x86\Debug\project.exe
+F:\DOAN\project\obj\x86\Debug\project.pdb
+F:\DOAN\project\bin\Debug\project.exe
+F:\DOAN\project\bin\Debug\project.pdb
+F:\DOAN\project\bin\Debug\Interop.WMPLib.dll
+F:\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+F:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+F:\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+F:\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+F:\DOAN\project\obj\x86\Debug\project.Block.resources
+F:\DOAN\project\obj\x86\Debug\project.ChangePersional.resources
+F:\DOAN\project\obj\x86\Debug\project.frmAdCategory.resources
+F:\DOAN\project\obj\x86\Debug\project.frmAdFood.resources
+F:\DOAN\project\obj\x86\Debug\project.frmAdTables.resources
+F:\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+F:\DOAN\project\obj\x86\Debug\project.frmMain.resources
+F:\DOAN\project\obj\x86\Debug\project.frmPay.resources
+F:\DOAN\project\obj\x86\Debug\project.PlusTable.resources
+F:\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+F:\DOAN\project\obj\x86\Debug\project.ReFood.resources
+F:\DOAN\project\obj\x86\Debug\project.ReplaceTable.resources
+F:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+F:\DOAN\project\obj\x86\Debug\project.exe.licenses
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.exe
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.pdb
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\project.exe
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\project.pdb
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\Interop.WMPLib.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.Block.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.ChangePersional.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmAdCategory.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmAdFood.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmAdTables.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmMain.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmPay.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.PlusTable.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.ReFood.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.ReplaceTable.resources
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.exe.licenses
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.frmNhanvien.resources
+D:\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+D:\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\DOAN\project\obj\x86\Debug\project.exe
+D:\DOAN\project\obj\x86\Debug\project.pdb
+D:\DOAN\project\bin\Debug\project.exe
+D:\DOAN\project\bin\Debug\project.pdb
+D:\DOAN\project\bin\Debug\DevExpress.Data.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\DOAN\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\DOAN\project\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\DOAN\project\bin\Debug\DevExpress.Data.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\DOAN\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\DOAN\project\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\DOAN\project\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\Interop.WMPLib.dll
+D:\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+D:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+D:\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+D:\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+D:\DOAN\project\obj\x86\Debug\project.Block.resources
+D:\DOAN\project\obj\x86\Debug\project.ChangePersional.resources
+D:\DOAN\project\obj\x86\Debug\project.frmAdCategory.resources
+D:\DOAN\project\obj\x86\Debug\project.frmAdFood.resources
+D:\DOAN\project\obj\x86\Debug\project.frmAdTables.resources
+D:\DOAN\project\obj\x86\Debug\project.frmNhanvien.resources
+D:\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+D:\DOAN\project\obj\x86\Debug\project.frmMain.resources
+D:\DOAN\project\obj\x86\Debug\project.frmPay.resources
+D:\DOAN\project\obj\x86\Debug\project.PlusTable.resources
+D:\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+D:\DOAN\project\obj\x86\Debug\project.ReFood.resources
+D:\DOAN\project\obj\x86\Debug\project.ReplaceTable.resources
+D:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+D:\DOAN\project\obj\x86\Debug\project.exe.licenses
+D:\DOAN\project\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\DOAN\project\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\DOAN\project\bin\Debug\DevExpress.Images.v18.1.dll
+D:\DOAN\project\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\DOAN\project\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\DOAN\project\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\DOAN\project\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\DOAN\project\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.ReportNhanVien.resources
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\project.exe.config
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.Shared.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\FlashControlV71.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\ShockwaveFlashObjects.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\VĂN BẰNG\bang\DOAN\project\bin\Debug\stdole.dll
+E:\VĂN BẰNG\bang\DOAN\project\obj\x86\Debug\project.ReportMon.resources
+G:\DOAN\project\bin\Debug\project.exe.config
+G:\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+G:\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+G:\DOAN\project\obj\x86\Debug\project.exe
+G:\DOAN\project\obj\x86\Debug\project.pdb
+G:\DOAN\project\bin\Debug\project.exe
+G:\DOAN\project\bin\Debug\project.pdb
+G:\DOAN\project\bin\Debug\DevExpress.Data.v18.1.dll
+G:\DOAN\project\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+G:\DOAN\project\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+G:\DOAN\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+G:\DOAN\project\bin\Debug\DevExpress.Utils.v18.1.dll
+G:\DOAN\project\bin\Debug\DevExpress.XtraBars.v18.1.dll
+G:\DOAN\project\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+G:\DOAN\project\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+G:\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+G:\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+G:\DOAN\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+G:\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.dll
+G:\DOAN\project\bin\Debug\DevExpress.Images.v18.1.dll
+G:\DOAN\project\bin\Debug\ShockwaveFlashObjects.dll
+G:\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\DOAN\project\bin\Debug\stdole.dll
+G:\DOAN\project\bin\Debug\DevExpress.Data.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+G:\DOAN\project\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+G:\DOAN\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+G:\DOAN\project\bin\Debug\DevExpress.Utils.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.XtraBars.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+G:\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+G:\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.xml
+G:\DOAN\project\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+G:\DOAN\project\bin\Debug\Interop.WMPLib.dll
+G:\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+G:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+G:\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+G:\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+G:\DOAN\project\obj\x86\Debug\project.Block.resources
+G:\DOAN\project\obj\x86\Debug\project.ChangePersional.resources
+G:\DOAN\project\obj\x86\Debug\project.frmAdCategory.resources
+G:\DOAN\project\obj\x86\Debug\project.frmAdFood.resources
+G:\DOAN\project\obj\x86\Debug\project.frmAdTables.resources
+G:\DOAN\project\obj\x86\Debug\project.frmNhanvien.resources
+G:\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+G:\DOAN\project\obj\x86\Debug\project.frmMain.resources
+G:\DOAN\project\obj\x86\Debug\project.frmPay.resources
+G:\DOAN\project\obj\x86\Debug\project.PlusTable.resources
+G:\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+G:\DOAN\project\obj\x86\Debug\project.ReFood.resources
+G:\DOAN\project\obj\x86\Debug\project.ReplaceTable.resources
+G:\DOAN\project\obj\x86\Debug\project.ReportMon.resources
+G:\DOAN\project\obj\x86\Debug\project.reportNhanVien.resources
+G:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+G:\DOAN\project\obj\x86\Debug\project.exe.licenses
+H:\DOAN\project\bin\Debug\project.exe.config
+H:\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+H:\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+H:\DOAN\project\obj\x86\Debug\project.exe
+H:\DOAN\project\obj\x86\Debug\project.pdb
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\project.exe.config
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\project.exe
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\project.pdb
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.Block.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.ChangePersional.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmAdCategory.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmAdFood.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmAdTables.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmNhanvien.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmMain.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.frmPay.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.PlusTable.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.ReFood.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.ReplaceTable.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.ReportMon.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.reportNhanVien.resources
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.exe.licenses
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.CopyComplete
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.exe
+C:\Users\Admin\Downloads\DOAN\DOAN\project\obj\x86\Debug\project.pdb
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.Block.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.ChangePersional.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmAdCategory.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmAdFood.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmAdTables.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmMain.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.frmPay.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.PlusTable.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.ReFood.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.ReplaceTable.resources
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.exe.licenses
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.exe
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\project.pdb
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\project.exe.config
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\project.exe
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\project.pdb
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Images.v18.1.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ShockwaveFlashObjects.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\stdole.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\Interop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.CopyComplete
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\project.exe.config
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\project.exe
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\project.pdb
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ShockwaveFlashObjects.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\stdole.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\Interop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\bin\Debug\AxInterop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\Interop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.frmAdAccount.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.frmAddFood.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Nghi.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Thong_Tin.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Them_Danh_Muc.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.QL_Mon.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.QL_Ban.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.frmLogin.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.frmMain.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.frmPay.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Gop_Ban.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Properties.Resources.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Doi_Tra_Mon.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.Chuyen_Ban.resources
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.exe.licenses
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\CoffeShopManagement.csproj.CopyComplete
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.exe
+D:\Do_An_NET\DOAN\DOAN\DOAN\project\obj\x86\Debug\project.pdb
