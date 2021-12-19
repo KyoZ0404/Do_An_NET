@@ -21,18 +21,22 @@ namespace project
             }
             catch { }
         }
+        //load tài khoản
         public DataTable loadAccount()
         {
-            DataTable data = new DataTable();
-            SqlCommand command = new SqlCommand();
-            command.Connection = connection;
-            command.CommandType = CommandType.StoredProcedure;
-            command.CommandText = "sp_load_account";
-            SqlDataAdapter adapter = new SqlDataAdapter(command);
-            adapter.Fill(data);
-            connection.Close();
+            DataTable data = new DataTable();   //tạo 1 datatable để chứa dữ liệu
+            SqlCommand command = new SqlCommand();  //tạo câu lệnh truy vấn
+            command.Connection = connection;        //kết nối đến đường dẫn sql
+            command.CommandType = CommandType.StoredProcedure;  //kết nối đến produce dc tạo trong sql
+            //produre dc sử dụng chứa nhiều câu lệnh truy vấn trong đó, chỉ việc tạo produre trong sql mình ko cần phải truy vấn trong visual, mình chỉ cần gọi tên produre là nó sẽ tự thực hiện
+            command.CommandText = "sp_load_account";    //kết nối đến tên produre
+            SqlDataAdapter adapter = new SqlDataAdapter(command); //tạo sqldataadapter để đọc những lệnh vừa mới thực hiện
+            adapter.Fill(data); //đổ vào bảng table mới tạo lúc nảy
+            connection.Close(); //ngắt kết nối
             return data;
         }
+
+        //load dữ liệu bàn
         public DataTable loadTableF()
         {
             DataTable data = new DataTable();
@@ -45,6 +49,8 @@ namespace project
             connection.Close();
             return data;
         }
+
+        //load thông tin bill
         public DataTable loadBillInfo(string nameT)
         {
             DataTable data = new DataTable();
@@ -59,6 +65,7 @@ namespace project
             return data;
         }
         
+        //load danh mục món
         public DataTable loadCategory()
         {
             DataTable data = new DataTable();
@@ -71,6 +78,8 @@ namespace project
                 connection.Close();
             return data;
         }
+
+        //load tất cả món ăn
         public DataTable loadAllFood()
         {
             DataTable data = new DataTable();
@@ -83,6 +92,8 @@ namespace project
             connection.Close();
             return data;
         }
+
+        //load món
         public DataTable loadFood(string nameC)
         {
             DataTable data = new DataTable();
@@ -97,6 +108,7 @@ namespace project
             return data;
         }
 
+        //load bill bàn có món ăn
         public DataTable loadTableFoodBill(string nameT)
         {
             DataTable data = new DataTable();
@@ -111,7 +123,7 @@ namespace project
             return data;
         }
 
-
+        //xử lý đặt bàn
         public void Datban(string stt, string nameT)
         {
             SqlCommand command = new SqlCommand();
@@ -124,6 +136,7 @@ namespace project
                 connection.Close();
         }
         
+        //thêm tài khoản
         public void AddAccount(string USERNAME, string DISPLAYNAME, string PASSWORD, string TYPEACCOUNT)
         {
                 SqlCommand command = new SqlCommand("sp_Add_Account",connection);
@@ -136,7 +149,7 @@ namespace project
                 connection.Close();
         }
 
-        
+        //xóa tài khoản
         public void DelAccount(string USERNAME)
         {
             SqlCommand command = new SqlCommand();
@@ -147,6 +160,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chỉnh sửa tài khoản
         public void UpdateAccount(string USERNAME, string DISPLAYNAME, string PASSWORD, string TYPEACCOUNT,string Where)
         {
             SqlCommand command = new SqlCommand();
@@ -161,6 +176,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //thêm món
         public void AddFood(string NAMECATEGORY, string NAME, float PRICE)
         {
             SqlCommand command = new SqlCommand();
@@ -173,6 +190,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //xóa món
         public void DelFood(string NAMECATEGORY)
         {
             SqlCommand command = new SqlCommand();
@@ -183,6 +202,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chỉnh sửa món
         public void UpdateFood(string NAMECATEGORY, string NAME, float PRICE,string where)
         {
             SqlCommand command = new SqlCommand();
@@ -197,6 +218,7 @@ namespace project
             connection.Close();
         }
 
+        //thêm bàn
         public void AddTable(string NAME)
         {
             SqlCommand command = new SqlCommand();
@@ -207,6 +229,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //xóa bàn
         public void DelTable(string NAME)
         {
             SqlCommand command = new SqlCommand();
@@ -217,6 +241,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chỉnh sửa bàn
         public void UpdateTable(string NAME,string where)
         {
             SqlCommand command = new SqlCommand();
@@ -228,6 +254,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //đổi trả món
         public void giammon(string NAMET, string NAMEF, int count, float total)
         {
             SqlCommand command = new SqlCommand();
@@ -248,7 +276,7 @@ namespace project
             connection.Close();
         }
 
-
+        //chuyển món
         public void move_food(string NAMETABLE,string NAMEFOOD,int COUNTS)
         {
             SqlCommand command = new SqlCommand();
@@ -261,6 +289,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chuyển bàn
         public void move_table(float TOTAL, string NAMET,string NAMEF)
         {
             SqlCommand command = new SqlCommand();
@@ -273,6 +303,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chọn bàn
         public DataTable check_table(string NAMET)
         {
             DataTable data = new DataTable();
@@ -287,7 +319,7 @@ namespace project
             return data;
         }
 
-
+        //thêm danh mục 
         public void AddCate(string NAMEC)
         {
             SqlCommand command = new SqlCommand();
@@ -298,6 +330,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //xóa danh mục
         public void DelCate(string NAMEC)
         {
             SqlCommand command = new SqlCommand();
@@ -308,6 +342,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chỉnh sửa danh mục
         public void UpdateCate(string NAMEC,string Where)
         {
             SqlCommand command = new SqlCommand();
@@ -320,7 +356,7 @@ namespace project
             connection.Close();
         }
 
-
+        // load món ăn của bàn
         public DataTable loadFoodTable(string NAMET)
         {
             DataTable data = new DataTable();
@@ -334,6 +370,8 @@ namespace project
             connection.Close();
             return data;
         }
+
+        //xử lý sự kiện gộp bàn
         public void GopTable(string NAMETABLEA, string NAMETABLEB, float addTotal)
         {
             SqlCommand command = new SqlCommand();
@@ -348,7 +386,7 @@ namespace project
         }
 
 
-
+        //load vị trí của bàn
         public DataTable loadTableWhere(string NAME)
         {
             DataTable data = new DataTable();
@@ -362,6 +400,8 @@ namespace project
             connection.Close();
             return data;
         }
+
+        //load vị trí của bill
         public DataTable loadBillWhere(string NAME)
         {
             DataTable data = new DataTable();
@@ -375,6 +415,8 @@ namespace project
             connection.Close();
             return data;
         }
+
+        //xóa hết bàn
         public void ClearTable(string NAME)
         {
             SqlCommand command = new SqlCommand();
@@ -385,6 +427,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //xóa hết bill
         public void ClearBill(string NAME)
         {
             SqlCommand command = new SqlCommand();
@@ -395,6 +439,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //reset lại bàn
         public void ResetTable(string NAME)
         {
             SqlCommand command = new SqlCommand();
@@ -405,6 +451,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //thêm món
         public void ThemMon(string NAME,string NAMEFood, int count)
         {
             SqlCommand command = new SqlCommand();
@@ -417,6 +465,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //tăng số lượng món
         public void TangSLMon(string NAME, string NAMEFood, int count)
         {
             SqlCommand command = new SqlCommand();
@@ -429,6 +479,8 @@ namespace project
             command.ExecuteNonQuery();
             connection.Close();
         }
+
+        //chọn món của bàn
         public DataTable checkFoodTable(string NAME, string NAMEFood)
         {
             DataTable data = new DataTable();
@@ -443,6 +495,7 @@ namespace project
             connection.Close();
             return data;
         }
+        //tính giá
         public DataTable getPrice(string NAMEFood)
         {
             DataTable data = new DataTable();
@@ -456,6 +509,7 @@ namespace project
             connection.Close();
             return data;
         }
+        //tổng tiền
         public void setTotal(string NAME, float total)
         {
             SqlCommand command = new SqlCommand();
@@ -469,7 +523,7 @@ namespace project
         }
 
 
-
+        //reset lại tài khoản
         public void resetAccount(string DISPLAYNAME, string PASS, string USER)
         {
             SqlCommand command = new SqlCommand();

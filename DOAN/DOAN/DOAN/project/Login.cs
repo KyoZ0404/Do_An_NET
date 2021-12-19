@@ -21,18 +21,14 @@ namespace project
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            DialogResult ms = MessageBox.Show("Bạn có muốn thoát không? ", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (ms == DialogResult.Yes)
-            {
-                this.Close();
-            }
+            Application.Exit();
         }
 
         //Ham kiem tra Dang nhap
         private bool CheckLogin(string username, string password, string typeA)
         {
-            DataProvider provider = new DataProvider();
-            DataTable table = provider.loadAccount();
+            DataProvider provider = new DataProvider(); //gọi class DataProvider để load tài khoản
+            DataTable table = provider.loadAccount(); //gọi datatable để chứa sự kiện load tài lhoản
             for (int i = 0; i < table.Rows.Count; i++)
             {
                 if (table.Rows[i][0].ToString() == username && table.Rows[i][2].ToString() == password && table.Rows[i][3].ToString() == typeA)
@@ -86,6 +82,14 @@ namespace project
         private void txtPassword_Click(object sender, EventArgs e)
         {
             txtPassword.Clear();
+        }
+
+        private void frmLogin_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult traloi;
+            traloi = MessageBox.Show("Bạn có muốn thoát", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (traloi == DialogResult.No)
+                e.Cancel = true;
         }
     }
 }
