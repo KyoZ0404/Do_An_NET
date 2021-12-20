@@ -16,7 +16,7 @@ namespace project
         {
             try
             {
-                connection.ConnectionString = @"Data Source=THAIBAO\SQLEXPRESS;Initial Catalog=QL_QUANCAFE;Integrated Security=True";
+                connection.ConnectionString = @"Data Source=LAPTOP-1L9V425K\SQLExpress;Initial Catalog=QL_QUANCAFE;Integrated Security=True";
                 connection.Open();
             }
             catch { }

@@ -14,7 +14,7 @@ namespace project
         DataSet ds;
         public clsDatabase()
         {
-            String strCnn = @"Data Source=THAIBAO\SQLEXPRESS;Initial Catalog=QL_QUANCAFE;Integrated Security=True";
+            String strCnn = @"Data Source=LAPTOP-1L9V425K\SQLExpress;Initial Catalog=QL_QUANCAFE;Integrated Security=True";
             sqlConn = new SqlConnection(strCnn);
         }
         public DataTable Docbang(String sqlStr)
