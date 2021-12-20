@@ -149,7 +149,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pnlBill.AutoScroll = true;
             this.pnlBill.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.pnlBill.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.pnlBill.ForeColor = System.Drawing.Color.Blue;
             this.pnlBill.Location = new System.Drawing.Point(6, 84);
             this.pnlBill.Name = "pnlBill";
             this.pnlBill.Size = new System.Drawing.Size(174, 346);
@@ -169,7 +169,7 @@
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(11, 455);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(102, 22);
@@ -182,7 +182,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
-            this.BackgroundImage = global::project.Properties.Resources._2d2dc1c969ebc5da2cc2c0dd57672f5e;
+            this.BackgroundImage = global::project.Properties.Resources.depositphotos_12489577_stock_illustration_coffee_background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(560, 603);
             this.Controls.Add(this.gpbBill);

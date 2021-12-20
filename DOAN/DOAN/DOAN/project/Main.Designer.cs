@@ -276,7 +276,7 @@
             // txtTotal
             // 
             this.txtTotal.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtTotal.ForeColor = System.Drawing.Color.DarkOrange;
+            this.txtTotal.ForeColor = System.Drawing.Color.Blue;
             this.txtTotal.Location = new System.Drawing.Point(198, 305);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.Size = new System.Drawing.Size(151, 24);
@@ -286,7 +286,7 @@
             // txtSTT
             // 
             this.txtSTT.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtSTT.ForeColor = System.Drawing.Color.DarkOrange;
+            this.txtSTT.ForeColor = System.Drawing.Color.Blue;
             this.txtSTT.Location = new System.Drawing.Point(246, 58);
             this.txtSTT.Name = "txtSTT";
             this.txtSTT.Size = new System.Drawing.Size(150, 29);
@@ -295,7 +295,7 @@
             // 
             // txtNameTable
             // 
-            this.txtNameTable.ForeColor = System.Drawing.Color.DarkOrange;
+            this.txtNameTable.ForeColor = System.Drawing.Color.Blue;
             this.txtNameTable.Location = new System.Drawing.Point(61, 58);
             this.txtNameTable.Name = "txtNameTable";
             this.txtNameTable.Size = new System.Drawing.Size(122, 27);
@@ -306,7 +306,7 @@
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label6.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label6.ForeColor = System.Drawing.Color.Blue;
             this.label6.Location = new System.Drawing.Point(355, 305);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(50, 24);
@@ -317,7 +317,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Maiandra GD", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label5.ForeColor = System.Drawing.Color.Blue;
             this.label5.Location = new System.Drawing.Point(27, 106);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(201, 22);
@@ -327,7 +327,7 @@
             // pnlBill
             // 
             this.pnlBill.AutoScroll = true;
-            this.pnlBill.ForeColor = System.Drawing.Color.DarkOrange;
+            this.pnlBill.ForeColor = System.Drawing.Color.Blue;
             this.pnlBill.Location = new System.Drawing.Point(18, 141);
             this.pnlBill.Name = "pnlBill";
             this.pnlBill.Size = new System.Drawing.Size(411, 152);
@@ -335,7 +335,7 @@
             // 
             // label2
             // 
-            this.label2.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label2.ForeColor = System.Drawing.Color.Blue;
             this.label2.Location = new System.Drawing.Point(14, 58);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(55, 24);
@@ -346,7 +346,7 @@
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(27, 305);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(102, 22);
@@ -401,7 +401,7 @@
             // 
             // txtPriceFood
             // 
-            this.txtPriceFood.ForeColor = System.Drawing.Color.DarkOrange;
+            this.txtPriceFood.ForeColor = System.Drawing.Color.Blue;
             this.txtPriceFood.Location = new System.Drawing.Point(115, 54);
             this.txtPriceFood.Name = "txtPriceFood";
             this.txtPriceFood.Size = new System.Drawing.Size(221, 24);
@@ -409,7 +409,7 @@
             // 
             // txtNameFood
             // 
-            this.txtNameFood.ForeColor = System.Drawing.Color.DarkOrange;
+            this.txtNameFood.ForeColor = System.Drawing.Color.Blue;
             this.txtNameFood.Location = new System.Drawing.Point(4, 30);
             this.txtNameFood.Name = "txtNameFood";
             this.txtNameFood.Size = new System.Drawing.Size(388, 24);
@@ -418,7 +418,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label4.ForeColor = System.Drawing.Color.Blue;
             this.label4.Location = new System.Drawing.Point(20, 54);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(80, 22);
@@ -429,7 +429,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label3.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label3.ForeColor = System.Drawing.Color.Blue;
             this.label3.Location = new System.Drawing.Point(342, 54);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 24);
@@ -470,11 +470,11 @@
             // 
             this.lblName.AutoSize = true;
             this.lblName.BackColor = System.Drawing.Color.Transparent;
-            this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.lblName.Location = new System.Drawing.Point(246, 40);
+            this.lblName.Location = new System.Drawing.Point(255, 44);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(88, 24);
+            this.lblName.Size = new System.Drawing.Size(79, 20);
             this.lblName.TabIndex = 50;
             this.lblName.Text = "Quản Lý";
             // 
@@ -528,7 +528,7 @@
             this.btnPay.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.btnPay.Image = global::project.Properties.Resources.icons8_purchase_order_64;
             this.btnPay.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnPay.Location = new System.Drawing.Point(359, 49);
+            this.btnPay.Location = new System.Drawing.Point(365, 62);
             this.btnPay.Margin = new System.Windows.Forms.Padding(5);
             this.btnPay.Name = "btnPay";
             this.btnPay.Size = new System.Drawing.Size(80, 128);
@@ -546,7 +546,7 @@
             this.btnBlock.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnBlock.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.btnBlock.Image = global::project.Properties.Resources.icons8_business_64;
-            this.btnBlock.Location = new System.Drawing.Point(239, 69);
+            this.btnBlock.Location = new System.Drawing.Point(238, 69);
             this.btnBlock.Margin = new System.Windows.Forms.Padding(5);
             this.btnBlock.Name = "btnBlock";
             this.btnBlock.Size = new System.Drawing.Size(110, 108);
@@ -605,6 +605,7 @@
             this.cmnSubTable.Name = "cmnSubTable";
             this.cmnSubTable.Size = new System.Drawing.Size(177, 76);
             this.cmnSubTable.Text = "ONLINE";
+            this.cmnSubTable.Opening += new System.ComponentModel.CancelEventHandler(this.cmnSubTable_Opening);
             // 
             // tsmThemMon
             // 
@@ -680,7 +681,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.BackgroundImage = global::project.Properties.Resources.pngtree_korean_cute_coffee_shop_menu_detail_page_vector_background_material_image_1357241;
+            this.BackgroundImage = global::project.Properties.Resources.pngtree_coffee_wallpaper_picture_image_14380121;
             this.ClientSize = new System.Drawing.Size(1431, 653);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.gpbFood);

@@ -571,5 +571,10 @@ namespace project
             }
             catch { }
         }
+
+        private void cmnSubTable_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }
